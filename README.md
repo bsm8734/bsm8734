@@ -1,5 +1,9 @@
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Soomin%20Bae&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Bae%20Sally&fontAlign=75&fontAlignY=40&color=gradient)
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐤%20Bae%20Sally&fontSize=50&animation=blinking&fontAlignY=38) -->
+
+<!-- ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Soomin%20Bae&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
+ -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbsm8734&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bsm8734.github.io/)](https://bsm8734.github.io/)
