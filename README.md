@@ -50,6 +50,7 @@
 | `2018.11.` ~ `2019.06.` 	| Undergraduate researcher | Intelligent Technology Lab, Inha Univ.	|
 | `2016.02.` ~ `2021.02.` 	| Department of Computer Science Engineering  | Inha University |
 
+<br>
 
 ### Projects
 
