@@ -1,7 +1,6 @@
 <!-- Head -->
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=🍋SoominBae&fontAlign=78&fontAlignY=40&color=gradient&fontSize=50)
 
-
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -24,10 +23,6 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
 </p> <!--   뱃지 제작 참고: https://2dowon.netlify.app/etc/github-badge/ -->
-
-
-<br>
-
 
 <!-- Contact -->
 <!-- <h3 align="center">🍋 Contact Me 🍋</h3>
