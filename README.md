@@ -37,7 +37,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bsm8734.github.io/)](https://bsm8734.github.io/)
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:bsm8734@naver.com)](mailto:bsm8734@naver.com) 
 - 🔭 I’m currently working on `GC 녹십자 헬스케어`
-- 🌱 I’m currently learning `Machine Learning`, `Data Analysis`, `Data Engineering`, `AI`
+- 🌱 I’m currently learning `AI`, `Computer Vision`, `Machine Learning`, `Data Analysis`
 
 <br>
 
