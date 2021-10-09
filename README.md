@@ -39,6 +39,7 @@
 - 🔭 I’m currently working on `GC 녹십자 헬스케어`
 - 🌱 I’m currently learning `Machine Learning`, `Data Analysis`, `Data Engineering`, `AI`
 
+<br>
 
 ### Educations
 
