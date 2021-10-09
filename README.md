@@ -44,7 +44,7 @@
 ### Educations
 
 | Date | Contents 	| Organizaion |
-|-----	|:----------:	|:-----------:|
+|:-----:	|:----------:	|:-----------:|
 | `2021.01.` ~ `2021.07.` 	| [Naver Boostcamp AI Tech (1st)](https://boostcamp.connect.or.kr/program_ai.html) | NAVER Connect Foundation  |
 | `2019.04.` ~ `2019.05.` 	| [Google Machine Learning Study Jam(Intermediate)](https://gdg.community.dev/events/details/google-gdg-jeju-presents-google-machine-learning-study-jam-junggeubban-2ca/) 	| Google Developer Groups |
 | `2018.11.` ~ `2019.06.` 	| Undergraduate researcher | Intelligent Technology Lab, Inha Univ.	|
@@ -55,7 +55,7 @@
 ### Projects
 
 | Date | Project | Results |
-|-------	|:--------:|:---------:|
+|:-------:|:--------:|:---------:|
 | `2021.05.` ~ `2021.06.` | [formula recognition OCR](https://github.com/bsm8734/formula-recognition-OCR) | Acc `0.55`, WER `0.17`, Rank `4/12`|
 | `2021.05.` | [object detection for recycling items](https://github.com/bsm8734/object-detection-for-recycling) | mAP 0.45, Rank `12/21` |
 | `2021.04.` ~ `2021.05.` | [semantic segmentation for recycling items](https://github.com/bsm8734/semantic-segmentation-for-recycling) | mIoU 0.65, Rank `13/21` |
