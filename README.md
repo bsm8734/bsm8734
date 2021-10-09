@@ -61,7 +61,7 @@
 | `2021.04.` ~ `2021.05.` | [semantic segmentation for recycling items](https://github.com/bsm8734/semantic-segmentation-for-recycling) 	| mIoU 0.65, Rank `13/21`         	|
 | `2021.04.`            	|     [customer log data analysis with ML](https://github.com/bsm8734/machine-learning-log-data-analysis)    	| ROC-AUC 0.86, Rank `18/96`      	|
 | `2021.03.` ~ `2021.04.` |     [mask wearing image classification](https://github.com/bsm8734/mask-wearing-image-classification)     	| F1-score 0.75, Rank `28/223`    	|
-| `2020.02.` ~ `2020.11.` | Voice-Recognition & Summarization App.    	| 2020 한이음 ICT 공모전 `입선`	         |
+| `2020.02.` ~ `2020.11.` | voice-recognition(STT) & summarization app. [youtube](https://www.youtube.com/watch?v=GxeZLPCm7Ow)   	| 2020 한이음 ICT 공모전 `입선`	         |
 | `2019.03.` ~ `2019.06.` |          [real-time hand-tracking](https://github.com/bsm8734/real-time-hand-tracking)          	| 2019 Problem Solving 경진대회 `금상`  |
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbsm8734&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
