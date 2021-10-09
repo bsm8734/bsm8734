@@ -1,5 +1,5 @@
 <!-- Head -->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=🍋SoominBae&fontAlign=78&fontAlignY=40&color=gradient&fontSize=50)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=🍋SoominBae&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)
 
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -33,9 +33,6 @@
 </div> -->
 
 
-<br>
-
-<!-- Current Status (Working, Interests, etc.) -->
 ### About Me
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bsm8734.github.io/)](https://bsm8734.github.io/)
 [![E-mail Badge](https://img.shields.io/badge/email-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:bsm8734@naver.com)](mailto:bsm8734@naver.com) 
@@ -43,10 +40,6 @@
 - 🌱 I’m currently learning `Machine Learning`, `Data Analysis`, `Data Engineering`, `AI`
 
 
-<br>
-
-
-<!-- Educations -->
 ### Educations
 
 | Date | Contents 	| Organizaion |
@@ -57,32 +50,17 @@
 | `2016.02.` ~ `2021.02.` 	| Department of Computer Science Engineering  | Inha University |
 
 
-<br>
 
-
-<!-- Projects -->
-
-
-
-<br>
-
-
-<!-- Hits & Status -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbsm8734&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsm8734&show_icons=true&theme=dracula&count_private=true)
 
 
 
 
-
-
-
+<!-- ![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsm8734&show_icons=true&theme=dracula&count_private=true) -->
 <!-- ### Repo cards
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
  -->
-
- 
 <!--
 **bsm8734/bsm8734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
